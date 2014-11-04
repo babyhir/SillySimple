@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Silly</title>
+	<title>Silly!</title>
 </head>
 <body>
 	<button id="silly">Do it</button>
